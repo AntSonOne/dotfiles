@@ -55,10 +55,10 @@
   mergeoptions = --no-edit
 
 [pull]
-  rebase = false
+	rebase = true
 
 [init]
   defaultBranch = master
 [user]
-	email = antoine.berson01@gmail.com
+	email = bersonantoine@proton.me
 	name = Antoine Berson
